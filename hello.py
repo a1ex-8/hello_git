@@ -4,4 +4,4 @@ for i in range(10):
 else:
     print("We finished range")
 
-
+b = "Эта переменная появилась на ветке test"
